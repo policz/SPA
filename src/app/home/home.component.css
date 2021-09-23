@@ -1,0 +1,15 @@
+table {
+    width: 70%;
+    margin: 10% auto auto auto;
+  }
+  
+.card-section {
+    margin: 10%;
+    padding: 5%;
+  }
+
+  .home {
+    margin-top: 150px;
+    margin-bottom: 10px;
+    text-align: center;
+  }
