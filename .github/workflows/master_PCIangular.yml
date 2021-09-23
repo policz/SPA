@@ -51,6 +51,5 @@ jobs:
       uses: azure/webapps-deploy@v2
       with:
         app-name: 'PCIangular'
-        slot-name: 'production'
-        publish-profile: ${{ secrets.AzureAppService_PublishProfile_cf154457d7394a9abb6e95cf0814b953 }}
-        package: .
+        publish-profile: $
+        package: ./dist/angular11-sample-app
