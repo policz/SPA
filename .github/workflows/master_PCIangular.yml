@@ -52,5 +52,5 @@ jobs:
       with:
         app-name: 'PCIangular'
         slot-name: 'production'
-        publish-profile: ${{ secrets.AzureAppService_PublishProfile_84b27e5e58514a858f3aedbdf8515580 }}
+        publish-profile: ${{ secrets.AzureAppService_PublishProfile_cf154457d7394a9abb6e95cf0814b953 }}
         package: .
